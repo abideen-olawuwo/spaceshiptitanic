@@ -3,14 +3,13 @@
 Predict which passengers are transported to an alternate dimension
 
 
-
 *  Data
 
 The dataset was downloaded from Kaggle (https://www.kaggle.com/competitions/spaceship-titanic)
 
 *  Evaluation
 
-
+The Evaluation Metrics is based on their classification accuracy.
 
 * Feature 
 
